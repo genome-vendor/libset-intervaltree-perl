@@ -1,0 +1,13 @@
+Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=135
+Maintainer: Ben Booth, <bbooth@>
+Source: http://search.cpan.org/dist/Set-IntervalTree/
+Name: Set-IntervalTree
+
+Files: *
+Copyright: Ben Booth, <bbooth@cpan.org>
+License: This library is free software; you can redistribute it and/or modify it under the same terms as Perl itself, either Perl version 5.10.1 or, at your option, any later version of Perl 5 you may have available.
+
+Files: debian/*
+Copyright: 2013, Allison Regier <aregier@genome.wustl.edu>
+License: GPL-1+
+
