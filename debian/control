@@ -2,7 +2,7 @@ Source: libset-intervaltree-perl
 Section: perl
 Priority: optional
 Build-Depends: debhelper (>= 7), perl
-Maintainer: Allison Regier <aregier@>
+Maintainer: Allison Regier <aregier@genome.wustl.edu>
 Standards-Version: 3.8.3
 Homepage: http://search.cpan.org/dist/Set-IntervalTree/
 
@@ -12,5 +12,3 @@ Depends: ${perl:Depends}, ${shlibs:Depends}, ${misc:Depends}
 Description: Perform range-based lookups on sets of ranges.
  Set::IntervalTree uses Interval Trees to store and efficiently look up ranges
  using a range-based lookup.
- .
- This description was automagically extracted from the module by dh-make-perl.
